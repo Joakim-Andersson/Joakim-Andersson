@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joakim</h1>
 <h3 align="center">A passionate Fullstack developer in Oslo, Norway</h3>
-<h3 align="center">Currently working as a consultant at </SALT> School of Applied Technology!</h3>
+<h4 align="center">Currently working as a consultant at </SALT> School of Applied Technology!</h4>
 
 
 - 📫 How to reach me **jjoakimm@hotmail.com**
