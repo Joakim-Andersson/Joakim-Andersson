@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joakim</h1>
-<h3 align="center">A passionate frontend developer in Oslo</h3>
+<h3 align="center">A passionate frontend developer in Oslo, Norway</h3>
 
 - 📫 How to reach me **jjoakimm@hotmail.com**
 
