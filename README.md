@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋  I'm Joakim!</h1>
 <h3 align="center">Fullstack developer in Oslo, Norway</h3>
-<h4 align="center">Currently working as a consultant at </SALT> School of Applied Technology!</h4>
-<h5 align="center">After working in E-commerce for two years, I decided to switch careers and become a professional web developer. I enjoy building apps & products, and learning new technologies along the way. Working mostly with React/Express/Node/MongoDB, as well as Jest/Mocha for TDD.</h5>
+<h4 align="center">Currently working as a consultant at </SALT> School of Applied Technology! After working in E-commerce for two years, I decided to switch careers and become a professional web developer. I enjoy building apps & products, and learning new technologies along the way. Working mostly with React/Express/Node/MongoDB, as well as Jest/Mocha for TDD.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
