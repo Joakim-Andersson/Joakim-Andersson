@@ -5,15 +5,18 @@
 <h3> Work-in-progress </h3>
 <ul>
 <li> <h4> <a href="https://github.com/hagenek/polka">Polka Meet app</a> </h4> Together with my mob we created an app aimed at improving social life during pandemics for people with disabilities. Deployed <a href="https://polkat.herokuapp.com/">here</a> with Heroku.   
+  
   Frontend - React, Axios, Socket.io
+  
   Backend - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB + Mongoose
 </li>
 
 <li> <h4> <a href="https://github.com/Joakim-Andersson/Seasonal-produce">Recipe site with Seasonal Produce</a> </h4> 
-A site that shows which produce that's in season for your area, and shows relevant recipes using these ingredients. A one day hackaton project which I intend to develop further. 
-    
- Frontend - React
-  Backend - NodeJS, ExpressJS, RESTful API
+A site that shows which produce that's in season for your area, and shows relevant recipes using these ingredients. A one day hackaton project which I intend to develop further.
+  
+  Frontend - React
+ 
+ Backend - NodeJS, ExpressJS, RESTful API
 </li>
 </ul>
 
