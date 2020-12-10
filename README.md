@@ -2,7 +2,8 @@
 <h3 align="center">A full stack developer living in Oslo, Norway</h3>
 <p align="center">Currently working as a consultant at </SALT> School of Applied Technology! After working in E-commerce for two years, I decided to switch careers and become a professional web developer. I enjoy building apps & products, and learning new technologies along the way. Working mostly with React/Express/Node/MongoDB, as well as Jest/Mocha for TDD.</p>
 
-<p> <u>Work-in-progress</u> 
+<p> <u> Work-in-progress </u> 
+  
 Polka Meet app - together with my mob we created an app aimed at improving people with disabilities social life during pandemics. 
   
   <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Redux
