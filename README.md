@@ -4,12 +4,9 @@
 
 <h3> Work-in-progress </h3>
 </p>
-<h5> Polka Meet app </h5> - together with my mob we created an app aimed at improving people with disabilities social life during pandemics. 
-  
+<h4> Polka Meet app </h4> - together with my mob we created an app aimed at improving social life during pandemics for people with disabilities. 
   <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Axios, Socket.io
-  
   <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB with Mongoose </p>
-
 </p>
 
 Seasoal producce site - A site that shows which produce is in season for your area. A one day hackaton project which I intend to develop further.
