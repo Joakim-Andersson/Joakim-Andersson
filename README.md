@@ -4,7 +4,7 @@
 
 <h3> Work-in-progress </h3>
 </p>
-Polka Meet app - together with my mob we created an app aimed at improving people with disabilities social life during pandemics. 
+<h5> Polka Meet app </h5> - together with my mob we created an app aimed at improving people with disabilities social life during pandemics. 
   
   <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Axios, Socket.io
   
