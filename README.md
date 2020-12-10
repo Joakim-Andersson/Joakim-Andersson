@@ -3,18 +3,30 @@
 <p align="center">Currently working as a consultant at </SALT> School of Applied Technology! After working in E-commerce for two years, I decided to switch careers and become a professional web developer. I enjoy building apps & products, and learning new technologies along the way. Working mostly with React/Express/Node/MongoDB, as well as Jest/Mocha for TDD.</p>
 
 <h3> Work-in-progress </h3>
-</p>
+<ul>
+<li>
+::marker
+<p>
 <h4> Polka Meet app </h4> Together with my mob we created an app aimed at improving social life during pandemics for people with disabilities. 
+    
+  <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB with Mongoose </p>
   
   <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Axios, Socket.io
-  
-  <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB with Mongoose </p>
-</p>
 
-Seasoal producce site - A site that shows which produce is in season for your area. A one day hackaton project which I intend to develop further.
-Backend - REST API with NodeJS, Express
-Frontend - React
 </p>
+</li>
+
+<li>
+::marker
+<p>
+<h4> Seasoal producce site </h4> 
+A site that shows which produce is in season for your area. A one day hackaton project which I intend to develop further.
+Frontend - React
+Backend - REST API with NodeJS, Express, Axios.
+</p>
+</li>
+
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
