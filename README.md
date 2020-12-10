@@ -4,7 +4,7 @@
 
 <h3> Work-in-progress </h3>
 <ul>
-<li> <h4> Polka Meet app </h4> Together with my mob we created an app aimed at improving social life during pandemics for people with disabilities. 
+<li> <h4> <a href="https://polkat.herokuapp.com/">Polka Meet app</a> </h4> Together with my mob we created an app aimed at improving social life during pandemics for people with disabilities. Deployed with Heroku. 
     
   <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB with Mongoose </p>
   
