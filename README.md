@@ -21,6 +21,7 @@ A site that shows which produce that's in season for your area, and shows releva
 </ul>
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joakim-per-oskar-andersson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joakim-per-oskar-andersson/" height="30" width="40" /> LinkedIn</a>
