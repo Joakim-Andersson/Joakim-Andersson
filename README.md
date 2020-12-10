@@ -6,14 +6,16 @@
 </p>
 Polka Meet app - together with my mob we created an app aimed at improving people with disabilities social life during pandemics. 
   
-  <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Redux
+  <a href="https://github.com/hagenek/polka-backend">Backend</a> - React, Axios, Socket.io
   
-  <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB
+  <a href="https://github.com/hagenek/polka-frontend">Frontend</a> - NodeJS, ExpressJS, JWT authentication, Socket.io, MongoDB with Mongoose </p>
+
+</p>
 
 Seasoal producce site - A site that shows which produce is in season for your area. A one day hackaton project which I intend to develop further.
 Backend - REST API with NodeJS, Express
-Frontend - React</p>
-
+Frontend - React
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
