@@ -12,12 +12,11 @@
 </li>
 
 <li> <h4> <a href="https://github.com/Joakim-Andersson/Seasonal-produce">Recipe site with Seasonal Produce</a> </h4> 
-A site that shows which produce that's in season for your area, and shows relevant recipes using these ingredients. A one day hackaton project which I intend to develop further.
+A site that shows which produce that's in season for your area, and shows relevant recipes using these ingredients. A one day hackaton project which I intend to develop further. 
     
-    Frontend - React
-    
-    Backend - REST API with NodeJS, Express
-    
+  <a href="">Frontend</a> - React
+  
+  <a href="">Backend</a> - NodeJS, ExpressJS, RESTful API
 </li>
 </ul>
 
