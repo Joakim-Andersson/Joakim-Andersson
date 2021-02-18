@@ -24,5 +24,5 @@ Single-page application that shows which produce that's in season for your area,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://heytherejoakim.com/">Check out my portfolio!</a>
-<a href="https://linkedin.com/in/joakim-per-oskar-andersson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joakim-per-oskar-andersson/" height="30" width="40" /> LinkedIn</a>
+<a href="https://linkedin.com/in/joakim-per-oskar-andersson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joakim-per-oskar-andersson/" height="30" width="40" margin="10px" /> LinkedIn</a>
 </p>
