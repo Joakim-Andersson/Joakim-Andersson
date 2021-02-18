@@ -23,8 +23,8 @@ Single-page application that shows which produce that's in season for your area,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  U+2192	 <a href="https://heytherejoakim.com/">Portfolio</a>
+👉 <a href="https://heytherejoakim.com/">Portfolio</a>
  </p>
 <p align="left">
-  U+2192	 <a href="https://linkedin.com/in/joakim-per-oskar-andersson/">LinkedIn</a>
+👉 <a href="https://linkedin.com/in/joakim-per-oskar-andersson/">LinkedIn</a>
 </p>
